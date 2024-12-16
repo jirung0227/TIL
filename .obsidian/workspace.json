@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/TEST.md",
+                "file": "Obsidian/사용법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEST"
+              "title": "사용법"
             }
           }
         ]
@@ -172,6 +172,8 @@
   "active": "3a28004c43ca4f9e",
   "lastOpenFiles": [
     "CS/TEST.md",
+    "Obsidian/사용법.md",
+    "Obsidian",
     "README.md",
     "CS",
     "thumbnail.png",
