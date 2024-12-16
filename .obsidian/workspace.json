@@ -11,14 +11,13 @@
             "id": "3a28004c43ca4f9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Obsidian/사용법.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "사용법"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -171,10 +170,10 @@
   },
   "active": "3a28004c43ca4f9e",
   "lastOpenFiles": [
-    "CS/TEST.md",
-    "Obsidian/사용법.md",
-    "Obsidian",
     "README.md",
+    "Obsidian/사용법.md",
+    "CS/TEST.md",
+    "Obsidian",
     "CS",
     "thumbnail.png",
     "TIL/Welcome.md",

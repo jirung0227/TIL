@@ -11,3 +11,5 @@ Todo list
 - bolt.new
 
 - cursor : The AI Code Editor
+
+- SSE : Server Sent Event
