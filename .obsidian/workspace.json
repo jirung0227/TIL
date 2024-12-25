@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14a37ad4097084fd",
+        "id": "a698931a604c1015",
         "type": "tabs",
         "children": [
           {
-            "id": "54fe46e187aca9e4",
+            "id": "a411f0ed0a9746e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54fe46e187aca9e4",
+  "active": "f22ac7c9eb996ed9",
   "lastOpenFiles": [
+    "이력서",
     "dog.jpeg.md",
     "README.md",
     "Obsidian/사용법.md",
