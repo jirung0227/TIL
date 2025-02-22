@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "무제 파일"
             }
+          },
+          {
+            "id": "05e01f8079d7e4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UML"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5957b29c238e9d6",
+  "active": "05e01f8079d7e4fa",
   "lastOpenFiles": [
-    "React/모던 리액트 Deep Dive/02_리액트_핵심_요소_깊게_살펴보기.md",
     "무제 파일.md",
+    "UML.md",
+    "React/모던 리액트 Deep Dive/02_리액트_핵심_요소_깊게_살펴보기.md",
     "TS",
     "Library/quill/README.md",
     "Library/quill/image.png",
