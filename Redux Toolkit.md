@@ -10,4 +10,3 @@ Redux를 더 쉽고, 간단하게 쓸 수 있게 만든 공식 도구
 | configureStore | 스토어를 설정          |
 | useSelector    | 상태 읽기            |
 | useDispatch    | 액션 실행하기          |
-1111
